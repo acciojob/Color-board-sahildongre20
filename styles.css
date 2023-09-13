@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.container{
+	width:95.5%;
+	padding:5px;
+	background-color: black;
+}
+.square{
+	width:12px;
+	height:12px;
+	background-color: #1d1d1dff;
+	display:inline-block;
+	transition: all ease-in-out 1s;
+}
+.square:hover{
+	background-color:#e74c3cff;
+}
