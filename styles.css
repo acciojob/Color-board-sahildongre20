@@ -9,7 +9,7 @@
 	height:12px;
 	background-color: #1d1d1dff;
 	display:inline-block;
-	transition: all ease-in-out 1s;
+	transition: all ease-out 1s;
 }
 .square:hover{
 	background-color:#e74c3cff;
